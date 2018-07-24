@@ -1,0 +1,34 @@
+.header{
+	font-size: 50px;
+	border-bottom: 2px solid black;
+	text-align: center;
+}
+
+body{
+	text-align: center;
+}
+table{
+	border: 4px solid black;
+	border-collapse: collapse;
+	background-color: lightgray;
+	color: black;
+	margin: 80px;
+	width: 1000px;
+	
+	
+	
+}
+thead th{
+	border: 3px solid black;
+	background-color: darkgray;
+	
+}
+
+tbody td{
+	
+	font-size: 15px;
+}
+
+tr:hover{
+	background-color: dimgray;
+}
